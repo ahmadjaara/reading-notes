@@ -1,10 +1,10 @@
 | Table of content | Url |
 | ----------- | ----------- |
-| sql |  |
+| sql |https://github.com/ahmadjaara/reading-notes/blob/master/sql.md |
 | terminal |  |
-| read 2 |  |
-| read 3 |  |
-| read 4 |  |
+| read 2 | https://github.com/ahmadjaara/reading-notes/blob/master/Read2.md |
+| read 3 | https://github.com/ahmadjaara/reading-notes/blob/master/Read3.md |
+| read 4 | https://github.com/ahmadjaara/reading-notes/blob/master/Read4.md |
 # My notes 
 ## description :this is my notebook to task summary 
 
