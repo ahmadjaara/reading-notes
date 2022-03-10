@@ -40,3 +40,18 @@ Following are the basic operations supported by a list.
 ## different between array and linked list :
 
 ![sql 1](/pic/arrayvslinkedlist.jpeg "1")
+
+# Big O: Analysis of Algorithm Efficiency
+
+Big O(oh) notation is used to describe the efficiency of an algorithm or function. This efficiency is evaluated based on 2 factors:
+
+- Running Time (also known as time efficiency / complexity)
+
+    The amount of time a function needs to complete.
+
+- Memory Space (also known as space efficiency / complexity)
+
+    The amount of memory resources a function uses to store data and instructions.
+
+
+![Bigo](/pic/bigo.png "1")
