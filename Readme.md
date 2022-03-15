@@ -7,6 +7,7 @@
 | read 4 | https://github.com/ahmadjaara/reading-notes/blob/master/Read4.md |
 |read 5|https://github.com/ahmadjaara/reading-notes/blob/master/Read5.md|
 |read6|https://github.com/ahmadjaara/reading-notes/pull/6|
+|read7|https://github.com/ahmadjaara/reading-notes/pull/8|
 # My notes 
 ## description :this is my notebook to task summary 
 
