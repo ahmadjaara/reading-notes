@@ -4,13 +4,13 @@
 | ----------- | ----------- |
 | sql |<https://github.com/ahmadjaara/reading-notes/blob/master/sql.md> |
 | terminal | <https://github.com/ahmadjaara/reading-notes/blob/master/terminal.md> |
-| read 1 | <https://github.com/ahmadjaara/reading-notes/blob/master/terminal.md> |
+| read 1 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read1.md> |
 | read 2 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read2.md> |
 | read 3 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read3.md> |
 | read 4 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read4.md> |
 |read 5|<https://github.com/ahmadjaara/reading-notes/blob/master/Read5.md>|
-|read 6|<https://github.com/ahmadjaara/reading-notes/pull/6>|
-|read 7|<https://github.com/ahmadjaara/reading-notes/pull/8>|
+|read 6|<https://github.com/ahmadjaara/reading-notes/blob/master/Read6.md>|
+|read 7|<https://github.com/ahmadjaara/reading-notes/blob/master/Read7.md>|
 
 # My notes
 
