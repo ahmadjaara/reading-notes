@@ -1,20 +1,25 @@
+# Ahmad Readings
+
 | Table of content | Url |
 | ----------- | ----------- |
-| sql |https://github.com/ahmadjaara/reading-notes/blob/master/sql.md |
-| terminal | https://github.com/ahmadjaara/reading-notes/blob/master/terminal.md |
-| read 2 | https://github.com/ahmadjaara/reading-notes/blob/master/Read2.md |
-| read 3 | https://github.com/ahmadjaara/reading-notes/blob/master/Read3.md |
-| read 4 | https://github.com/ahmadjaara/reading-notes/blob/master/Read4.md |
-|read 5|https://github.com/ahmadjaara/reading-notes/blob/master/Read5.md|
-|read6|https://github.com/ahmadjaara/reading-notes/pull/6|
-|read7|https://github.com/ahmadjaara/reading-notes/pull/8|
-# My notes 
-## description :this is my notebook to task summary 
+| sql |<https://github.com/ahmadjaara/reading-notes/blob/master/sql.md> |
+| terminal | <https://github.com/ahmadjaara/reading-notes/blob/master/terminal.md> |
+| read 1 | <https://github.com/ahmadjaara/reading-notes/blob/master/terminal.md> |
+| read 2 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read2.md> |
+| read 3 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read3.md> |
+| read 4 | <https://github.com/ahmadjaara/reading-notes/blob/master/Read4.md> |
+|read 5|<https://github.com/ahmadjaara/reading-notes/blob/master/Read5.md>|
+|read 6|<https://github.com/ahmadjaara/reading-notes/pull/6>|
+|read 7|<https://github.com/ahmadjaara/reading-notes/pull/8>|
 
-##  Code 102 - Intro to Software Development
+# My notes
 
-##  Code 201 - Foundations of Software Development
+## description :this is my notebook to task summary
 
-##  Code 301 - Intermediate Software Development
+## Code 102 - Intro to Software Development
 
-##  Code 401 - Advanced Software Development
+## Code 201 - Foundations of Software Development
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
