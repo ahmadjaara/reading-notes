@@ -1,9 +1,9 @@
-# linked list 
+# linked list
+
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations.
 a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list
 
-
-# Types of Linked List
+## Types of Linked List
 
 Following are the various types of linked list.
 
@@ -21,8 +21,6 @@ Linked List is a sequence of links which contains items. Each link contains a co
 
 - LinkedList − A Linked List contains the connection link to the first link called First.
 
-
-
 ## Basic Operations
 
 Following are the basic operations supported by a list.
@@ -37,11 +35,11 @@ Following are the basic operations supported by a list.
 
 - Delete − Deletes an element using the given key.
 
-## different between array and linked list :
+## different between array and linked list
 
-![sql 1](/pic/arrayvslinkedlist.jpeg "1")
+![sql 1](pic/arrayvslinkedlist.jpeg "1")
 
-# Big O: Analysis of Algorithm Efficiency
+## Big O: Analysis of Algorithm Efficiency
 
 Big O(oh) notation is used to describe the efficiency of an algorithm or function. This efficiency is evaluated based on 2 factors:
 
@@ -53,5 +51,4 @@ Big O(oh) notation is used to describe the efficiency of an algorithm or functio
 
     The amount of memory resources a function uses to store data and instructions.
 
-
-![Bigo](/pic/bigo.png "1")
+![Bigo](pic/bigo.png "1")
