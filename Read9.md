@@ -43,4 +43,5 @@ The Three Sigma rule, also known as the empirical rule or 68-95-99.7 rule, is an
 The Z-score is a simple calculation that answers the question, “Given a data point, how many standard deviations is it away from the mean?”
 
 eq:
+
 ![z-score](pic/z-score.jpg "z-score")
