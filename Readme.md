@@ -13,6 +13,7 @@
 |read 7|<https://github.com/ahmadjaara/reading-notes/blob/master/Read7.md>|
 |read8|<https://github.com/ahmadjaara/reading-notes/blob/master/Read8.md>|
 |read 9|<https://github.com/ahmadjaara/reading-notes/blob/master/Read9.md>|
+|read 10|<https://github.com/ahmadjaara/reading-notes/blob/master/Read9.md>|
 
 ## My notes
 
