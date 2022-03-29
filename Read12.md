@@ -6,7 +6,8 @@ The primary two components of pandas are the Series and DataFrame.
 
 ![series-and-dataframe](pic/series-and-dataframe.png "series-and-dataframe")
 
-ex:
+There are many ways to create a DataFrame from scratch, but a great option is to just use a simple dict.
+And then pass it to the pandas DataFrame constructor :
 
     data = {
         'apples': [3, 2, 0, 1], 
@@ -16,3 +17,4 @@ ex:
     purchases = pd.DataFrame(data)
 
     purchases
+Exploring, cleaning, transforming, and visualization data with pandas in Python is an essential skill in data science
