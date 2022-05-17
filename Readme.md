@@ -24,6 +24,7 @@
 |read 18|<https://github.com/ahmadjaara/reading-notes/blob/master/Read18.md>|
 |read 19|<https://github.com/ahmadjaara/reading-notes/blob/master/Read19.md>|
 |read 20|<https://github.com/ahmadjaara/reading-notes/blob/master/Read20.md>|
+|read 21|<https://github.com/ahmadjaara/reading-notes/blob/read/Read21.md>|
 
 ## My notes
 
