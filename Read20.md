@@ -14,7 +14,6 @@ Common field arguments
 
 The following common arguments can be used when declaring many/most of the different field types:
 
-
 - help_text: Provides a text label for HTML forms (e.g. in the admin site), as described above.
 
 - verbose_name: A human-readable name for the field used in field labels. If not specified, Django will infer the default verbose name from the field name.
@@ -27,13 +26,13 @@ The following common arguments can be used when declaring many/most of the diffe
 
 - choices: A group of choices for this field. If this is provided, the default corresponding form widget will be a select box with these choices instead of the standard text field.
 
-- primary_key: If True, sets the current field as the primary key for the model (A primary key is a special database column designated to uniquely identify all the different table records). If no field is specified as the primary key then Django will automatically add a field for this purpose. The type of auto-created primary key fields can be specified for each app in AppConfig.default_auto_field or globally in the DEFAULT_AUTO_FIELD setting. 
+- primary_key: If True, sets the current field as the primary key for the model (A primary key is a special database column designated to uniquely identify all the different table records). If no field is specified as the primary key then Django will automatically add a field for this purpose. The type of auto-created primary key fields can be specified for each app in AppConfig.default_auto_field or globally in the DEFAULT_AUTO_FIELD setting.
 
 Once we've decided on our models and field, we need to think about the relationships. Django allows you to define relationships that are one to one (OneToOneField), one to many (ForeignKey) and many to many (ManyToManyField).
 
 A model can also have methods.
 
-Minimally, in every model you should define the standard Python class method __str__() to return a human-readable string for each object.
+Minimally, in every model you should define the standard Python class method **str**() to return a human-readable string for each object.
 
 ## Django admin site
 
@@ -41,4 +40,4 @@ The Django admin application can use your models to automatically build a site a
 
 In order to log into the admin site, we need a user account with Staff status enabled. In order to view and create records we also need this user to have permissions to manage all our objects. You can create a "superuser" account that has full access to the site and all needed permissions using manage.py.
 
-To login to the site, open the /admin URL (e.g. http://127.0.0.1:8000/admin) and enter your new superuser userid and password credentials (you'll be redirected to the login page, and then back to the /admin URL after you've entered your details).
+To login to the site, open the /admin URL (e.g. <http://127.0.0.1:8000/admin>) and enter your new superuser userid and password credentials (you'll be redirected to the login page, and then back to the /admin URL after you've entered your details).
